@@ -1,0 +1,67 @@
+name = "Terminologia Anatomica Libera"
+describtion = "Traditional or historical linguistic forms should be preserved, while allowing for the inclusion of new discoveries or factual corrections. Corrections may address terms with ambiguity or stigma. Changes are permitted if they contribute to an informative stringent and systematically constructed language for medical nomenclature. The use of grammar and vocabulary from languages with contemporary political power should be avoided. Instead, inspiration may be drawn from dead languages, well-preserved languages, constructed languages, and languages with no significant global political influence."
+version-date = 2025-01-20
+
+[Anatomia-generalis]
+hex-id = 0x0
+norm = "Anatomia generalis"
+
+[Systema-skeletale]
+hex-id = 0x1
+norm = "Systema skeletale"
+
+[Systema-articulare]
+hex-id = 0x2
+norm = "Systema articulare"
+
+[Systema-musculare]
+hex-id = 0x3
+norm = "Systema musculare"
+
+[Systema-digestorium]
+hex-id = 0x4
+norm = "Systema digestorium"
+
+[Systema-respiratorium]
+hex-id = 0x5
+norm = "Systema respiratorium"
+
+[Cavitas-thoracis]
+hex-id = 0x6
+norm = "Cavitas thoracis"
+
+[Systema-urinarium]
+hex-id = 0x7
+norm = "Systema urinarium"
+
+[Systema-genitalia]
+hex-id = 0x8
+norm = "Systema genitalia"
+
+[Cavitas-abdominis-et-pelvis]
+hex-id = 0x9
+norm = "Cavitas abdominis et pelvis"
+
+[Glandulae-endocrinae]
+hex-id = 0xA
+norm = "Glandulae endocrinae"
+
+[Systema-cardivasculare]
+hex-id = 0xB
+norm = "Systema cardivasculare"
+
+[Systema-lymphoideum]
+hex-id = 0xC
+norm = "Systema lymphoideum"
+
+[Systema-nervosum]
+hex-id = 0xD
+norm = "Systema nervosum"
+
+[Organa-sensuum]
+hex-id = 0xE
+norm = "Organa sensuum"
+
+[Integumentum-commune]
+hex-id = 0xF
+norm = "Integumentum commune"
