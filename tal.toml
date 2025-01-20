@@ -6,6 +6,7 @@ version-date = 2025-01-20
 hex-id = 0x0
 norm = "Anatomia generalis"
 
+# Ex Origine Mesodermica (Paraxialis et Intermedia)
 [Systema-skeletale]
 hex-id = 0x1
 norm = "Systema skeletale"
@@ -17,6 +18,16 @@ norm = "Systema articulare"
 [Systema-musculare]
 hex-id = 0x3
 norm = "Systema musculare"
+
+[Systema-urinarium]
+hex-id = 0x7
+norm = "Systema urinarium"
+
+[Systema-genitalia]
+hex-id = 0x8
+norm = "Systema genitalia"
+
+# Ex Origine Endodermica et Coeloma Intraembryonicum
 
 [Systema-digestorium]
 hex-id = 0x4
@@ -30,17 +41,11 @@ norm = "Systema respiratorium"
 hex-id = 0x6
 norm = "Cavitas thoracis"
 
-[Systema-urinarium]
-hex-id = 0x7
-norm = "Systema urinarium"
-
-[Systema-genitalia]
-hex-id = 0x8
-norm = "Systema genitalia"
-
 [Cavitas-abdominis-et-pelvis]
 hex-id = 0x9
 norm = "Cavitas abdominis et pelvis"
+
+#  Ex Origine Mesodermica (Lateralis et Mixta)
 
 [Glandulae-endocrinae]
 hex-id = 0xA
@@ -53,6 +58,8 @@ norm = "Systema cardivasculare"
 [Systema-lymphoideum]
 hex-id = 0xC
 norm = "Systema lymphoideum"
+
+# Ex Origine Ectodermica
 
 [Systema-nervosum]
 hex-id = 0xD
